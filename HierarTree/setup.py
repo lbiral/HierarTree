@@ -28,7 +28,6 @@ setup(
         "pandas",
         "matplotlib",
         "joblib",
-        "math",
         "matplotlib",
         "collections",
         "sklearn"
