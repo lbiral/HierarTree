@@ -15,7 +15,7 @@ setup(
     description="A Python package for hierarchical decision tree and random forest classifiers",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/username/repository",
+    url="https://github.com/lbiral/HierarTree",
     packages=find_packages(),
     classifiers=[
         "Programming Language :: Python :: 3",
