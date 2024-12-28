@@ -18,6 +18,12 @@ You can install HierarTree by cloning this repository and running:
 pip install .
 ```
 
+Or you can simply run: 
+
+```bash
+pip install HierarTree
+```
+
 ### Requirements
 
 - Python >= 3.6
