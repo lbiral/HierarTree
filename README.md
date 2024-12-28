@@ -122,10 +122,6 @@ HierarchicalLabelRandomForestClassifier(
 ```
 - `n_trees`: Number of trees in the forest.
 
-## References
-
-https://www.sciencedirect.com/science/article/pii/S095741740800273X
-
 ## Contributing
 
 Contributions are welcome! Please fork the repository and submit a pull request with your changes.
@@ -133,3 +129,7 @@ Contributions are welcome! Please fork the repository and submit a pull request 
 ## License
 
 This project is licensed under the MIT License.
+
+## References
+
+https://www.sciencedirect.com/science/article/pii/S095741740800273X
