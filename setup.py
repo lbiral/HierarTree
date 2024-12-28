@@ -29,7 +29,6 @@ setup(
         "matplotlib",
         "joblib",
         "matplotlib",
-        "collections",
         "sklearn"
     ],
 )
