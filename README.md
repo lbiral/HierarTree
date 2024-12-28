@@ -25,6 +25,9 @@ pip install .
 - pandas
 - matplotlib
 - joblib
+- math
+- collections
+- sklearn
 
 ## Usage
 
